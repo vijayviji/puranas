@@ -1,0 +1,663 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="sa" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>वामनपुराणम्/सप्तचत्वारिंशत्तमोऽध्यायः - विकिस्रोतः</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["0\t1\t2\t3\t4\t5\t6\t7\t8\t9","०\t१\t२\t३\t४\t५\t६\t७\t८\t९"],"wgDefaultDateFormat":"dmy","wgMonthNames":["","जनवरी","फेब्रवरी","मार्च्","एप्रिल्","मे","जून्","जुलै","आगस्ट्","सेप्टेम्बर्","अक्टोबर्","नवेम्बर्","डिसेम्बर्"],"wgRequestId":"XsHjRApAEKAAAeIv7GMAAABJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"वामनपुराणम्/सप्तचत्वारिंशत्तमोऽध्यायः","wgTitle":"वामनपुराणम्/सप्तचत्वारिंशत्तमोऽध्यायः","wgCurRevisionId":107072,"wgRevisionId":107072,"wgArticleId":5656,
+"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["वामनपुराणम्"],"wgPageContentLanguage":"sa","wgPageContentModel":"wikitext","wgRelevantPageName":"वामनपुराणम्/सप्तचत्वारिंशत्तमोऽध्यायः","wgRelevantArticleId":5656,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"sa","pageLanguageDir":"ltr","pageVariantFallbacks":"sa"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"संस्कृतम्","wgNoticeProject":"wikisource","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgSiteNoticeId":"2.0"};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["ext.shortUrl","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.WSexport","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.dismissableSiteNotice"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sa"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=sa&amp;modules=ext.dismissableSiteNotice.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=sa&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=sa&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.32"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="सम्पाद्यताम्" href="/w/index.php?title=%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83&amp;action=edit"/>
+<link rel="edit" title="सम्पाद्यताम्" href="/w/index.php?title=%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83&amp;action=edit"/>
+<link rel="shortcut icon" href="/static/favicon/wikisource.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="विकिस्रोतः (sa)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//sa.wikisource.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="विकिस्रोतः अणुपूरणम्" href="/w/index.php?title=%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:%E0%A4%A8%E0%A5%82%E0%A4%A4%E0%A4%A8%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%BF&amp;feed=atom"/>
+<link rel="canonical" href="https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-वामनपुराणम्_सप्तचत्वारिंशत्तमोऽध्यायः rootpage-वामनपुराणम् skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+		<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Eअपनीयताम्\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"sa\" dir=\"ltr\"\u003E\u003Ccenter\u003E\n\u003Cdiv style=\"margin:5px 0; border:0; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); border-radius: 7px; background:white; width:100%; height:100px; overflow:hidden; background: #FCFCFC; background: -moz-linear-gradient(top, #FCFCFC 0%, #F5F5F5 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FCFCFC), color-stop(100%,#F5F5F5)); background: -webkit-linear-gradient(top, #FFF 0%,#FFF 100%); background: -o-linear-gradient(top, #FCFCFC 0%,#F5F5F5 100%); background: linear-gradient(top, #FCFCFC 0%,#F5F5F5 100%); position:relative\"\u003E\n\u003Cdiv style=\"float:left; margin-left:5px;margin-top:5px\"\u003E\n\u003Cdiv class=\"floatleft\"\u003E\u003Ca href=\"/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A4%E0%A4%83:%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A4%E0%A4%83%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%87%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE_%E0%A5%A8%E0%A5%A6%E0%A5%A8%E0%A5%A6\" title=\"भागग्रहणं कुरु\"\u003E\u003Cimg alt=\"भागग्रहणं कुरु\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rotating_Wikisource_logo.gif/75px-Rotating_Wikisource_logo.gif\" decoding=\"async\" width=\"75\" height=\"80\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rotating_Wikisource_logo.gif/112px-Rotating_Wikisource_logo.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rotating_Wikisource_logo.gif/150px-Rotating_Wikisource_logo.gif 2x\" data-file-width=\"561\" data-file-height=\"600\" /\u003E\u003C/a\u003E\u003C/div\u003E\n\u003C/div\u003E\n\u003Cdiv style=\"float:right; margin-top:5px;\"\u003E\n\u003C/div\u003E\n\u003Cdiv style=\"margin-left:10px; margin-right:0px; margin-top:25px; margin-bottom:0px; padding-left:20px; font-family:Siyam Rupali; font-size:110%; line-height:100%; align:center; text-align:center;\"\u003E\n\u003Cp\u003E\u003Cbig\u003E\u003Ca href=\"/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A4%E0%A4%83:%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A4%E0%A4%83%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%87%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE_%E0%A5%A8%E0%A5%A6%E0%A5%A8%E0%A5%A6\" title=\"विकिस्रोतः:विकिस्रोतःप्रवेशिका २०२०\"\u003E\u003Cspan title=\"विकिस्रोतःप्रवेशिका २०२०\"\u003Eविकिसदस्यानां कृते अन्तर्जालमाध्यमेन  कश्चन विकिस्रोतःप्रशिक्षणवर्गः चाल्यते ।\u003Cbr /\u003E\u003Cbr /\u003E विकिसदस्याः अस्मिन् भागग्रहणं कृत्वा अवसरस्य सदुपयोगं कुर्वन्तु । \u003C/span\u003E\u003C/a\u003E\u003C/big\u003E\n\u003C/p\u003E\n\u003Cdiv style=\"clear:both;\"\u003E\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/center\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="sa">वामनपुराणम्/सप्तचत्वारिंशत्तमोऽध्यायः</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">विकिस्रोतः तः</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D" title="वामनपुराणम्">वामनपुराणम्</a></span></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="sa" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:15em; text-align:left; float:right; clear: right; margin-left: 15px; text-align: left; border:1px solid #FF9933; padding:5px; font-size: 85%; width: 190px;">
+<tbody><tr>
+<th style="padding:0.2em; background:#FF9933; border #FF9933; text-align:left; margin-bottom:5px;">
+</th></tr>
+
+<tr valign="top">
+<td>
+<div class="NavFrame">
+<div class="NavHead" style="font-size: 140%; background: #FF9933;border:1px solid #FF9933;"><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D" title="वामनपुराणम्"><font color="black">वामनपुराणम्</font></a> </div>
+</div></td></tr>
+<tr>
+<td style="font-size: 100%;">
+<ol><li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/प्रथमोऽध्यायः">प्रथमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/द्वितीयोऽध्यायः">द्वितीयोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/तृतीयोऽध्यायः">तृतीयोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/चतुर्थोऽध्यायः">चतुर्थोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/पञ्चमोऽध्यायः">पञ्चमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B7%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/षष्ठोऽध्यायः">षष्ठोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/सप्तमोऽध्यायः">सप्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/अष्टमोऽध्यायः">अष्टमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A8%E0%A4%B5%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/नवमोऽध्यायः">नवमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A6%E0%A4%B6%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/दशमोऽध्यायः">दशमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%8F%E0%A4%95%E0%A4%BE%E0%A4%A6%E0%A4%B6%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/एकादशोऽध्यायः">एकादशोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%B6%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/द्वादशोऽध्यायः">द्वादशोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A5%8B%E0%A4%A6%E0%A4%B6%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/त्रयोदशोऽध्यायः">त्रयोदशोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A4%B6%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/चतुर्दशोऽध्यायः">चतुर्दशोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%A6%E0%A4%B6%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/पञ्चदशोऽध्यायः">पञ्चदशोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B7%E0%A5%8B%E0%A4%A1%E0%A4%B6%E0%A5%8B%E2%80%8D%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/षोडशो‍ऽध्यायः">षोडशोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%A6%E0%A4%B6%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/सप्तदशोऽध्यायः">सप्तदशोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%A6%E0%A4%B6%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/अष्टादशोऽध्यायः">अष्टादशोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%8F%E0%A4%95%E0%A5%8B%E0%A4%A8%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/एकोनविंशतितमोऽध्यायः">एकोनविंशतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/विंशतितमोऽध्यायः">विंशतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%8F%E0%A4%95%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/एकविंशतितमोऽध्यायः">एकविंशतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/द्वाविंशतितमोऽध्यायः">द्वाविंशतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A5%8B%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/त्रयोविंशतितमोऽध्यायः">त्रयोविंशतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/चतुर्विंशतितमोऽध्यायः">चतुर्विंशतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/पञ्चविंशतितमोऽध्यायः">पञ्चविंशतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B7%E0%A4%A1%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/षड्विंशतितमोऽध्यायः">षड्विंशतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/सप्तविंशतितमोऽध्यायः">सप्तविंशतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/अष्टाविंशतितमोऽध्यायः">अष्टाविंशतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A8%E0%A4%B5%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/नवविंशतितमोऽध्यायः">नवविंशतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/त्रिंशत्तमोऽध्यायः">त्रिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%8F%E0%A4%95%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/एकत्रिंशत्तमोऽध्यायः">एकत्रिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/द्वात्रिंशत्तमोऽध्यायः">द्वात्रिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/त्रयस्त्रिंशत्तमोऽध्यायः">त्रयस्त्रिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/चतुस्त्रिंशत्तमोऽध्यायः">चतुस्त्रिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/पञ्चत्रिंशत्तमोऽध्यायः">पञ्चत्रिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B7%E0%A4%A1%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/षड्त्रिंशत्तमोऽध्यायः">षड्त्रिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/सप्तत्रिंशत्तमोऽध्यायः">सप्तत्रिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/अष्टत्रिंशत्तमोऽध्यायः">अष्टत्रिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A8%E0%A4%B5%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/नवत्रिंशत्तमोऽध्यायः">नवत्रिंशात्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/चत्वारिंशत्तमोऽध्यायः">चत्वारिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%8F%E0%A4%95%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/एकचत्वारिंशत्तमोऽध्यायः">एकचत्वारिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/द्विचत्वारिंशत्तमोऽध्यायः">द्विचत्वारिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/त्रिचत्वारिंशत्तमोऽध्यायः">त्रिचत्वारिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B6%E0%A5%8D%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/चतुश्चत्वारिंशत्तमोऽध्यायः">चतुश्चत्वारिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/पञ्चचत्वारिंशत्तमोऽध्यायः">पञ्चचत्वारिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B7%E0%A4%A1%E0%A5%8D%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/षड्चत्वारिंशत्तमोऽध्यायः">षड्चत्वारिंशत्तमोऽध्यायः</a></li>
+<li><a class="mw-selflink selflink">सप्तचत्वारिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/अष्टचत्वारिंशत्तमोऽध्यायः">अष्टचत्वारिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A8%E0%A4%B5%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/नवचत्वारिंशात्तमोऽध्यायः">नवचत्वारिंशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/पञ्चाशत्तमोऽध्यायः">पञ्चाशत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%8F%E0%A4%95%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/एकपञ्चाषत्तमोऽध्यायः">एकपञ्चाषत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/द्विपञ्चाषत्तमोऽध्यायः">द्विपञ्चाषत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/त्रिपञ्चाषत्तमोऽध्यायः">त्रिपञ्चाषत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B7%E0%A5%8D%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/चतुष्पञ्चाषत्तमोऽध्यायः">चतुष्पञ्चाषत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/पञ्चपञ्चाषत्तमोऽध्यायः">पञ्चपञ्चाषत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B7%E0%A4%9F%E0%A5%8D%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/षट्पञ्चाषत्तमोऽध्यायः">षट्पञ्चाषत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" class="mw-redirect" title="वामनपुराणम्/सप्तञ्चाषत्तमोऽध्यायः">सप्तपञ्चाषत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/अष्टपञ्चाषत्तमोऽध्यायः">अष्टपञ्चाषत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A8%E0%A4%B5%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/नवपञ्चाषत्तमोऽध्यायः">नवपञ्चाषत्तमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B7%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/षष्टितमोऽध्यायः">षष्टितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%8F%E0%A4%95%E0%A4%B7%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/एकषष्टितमोऽध्यायः">एकषष्टितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/द्विषष्टितमोऽध्यायः">द्विषष्टितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B7%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/त्रिषष्टितमोऽध्यायः">त्रिषष्टितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B7%E0%A5%8D%E0%A4%B7%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/चतुष्षष्टितमोऽध्यायः">चतुष्षष्टितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%B7%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/पञ्चषष्टितमोऽध्यायः">पञ्चषष्टितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B7%E0%A4%A1%E0%A5%8D%E0%A4%B7%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/षड्षष्टितमोऽध्यायः">षड्षष्टितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%B7%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/सप्तषष्टितमोऽध्यायः">सप्तषष्टितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%B7%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/अष्टषष्टितमोऽध्यायः">अष्टषष्टितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A8%E0%A4%B5%E0%A4%B7%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/नवषष्टितमोऽध्यायः">नवषष्टितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/सप्ततितमोऽध्यायः">सप्ततितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%8F%E0%A4%95%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/एकसप्ततितमोऽध्यायः">एकसप्ततितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/द्विसप्ततितमोऽध्यायः">द्विसप्ततितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/त्रिसप्ततितमोऽध्यायः">त्रिसप्ततितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/चतुस्सप्ततितमोऽध्यायः">चतुस्सप्ततितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9C%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/पञ्जसप्ततितमोऽध्यायः">पञ्चसप्ततितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B7%E0%A4%9F%E0%A5%8D%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/षट्सप्ततितमोऽध्यायः">षट्सप्ततितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/सप्तसप्ततितमोऽध्यायः">सप्तसप्ततितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/अष्टसप्तसप्ततितमोऽध्यायः">अष्टसप्ततितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A8%E0%A4%B5%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/नवसप्तसप्ततितमोऽध्यायः">नवसप्ततितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/अशीतितमोऽध्यायः">अशीतितमोशऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%8F%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/एकाशीतितमोऽध्यायः">एकाशीतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/द्व्यशीतितमोऽध्यायः">द्व्यशीतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/त्र्यशीतितमोऽध्यायः">त्र्यशीतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/चतुरशीतितमोऽध्यायः">चतुरशीतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/पञ्चाशीतितमोऽध्यायः">पञ्चाशीतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B7%E0%A4%A1%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/षडशीतितमोऽध्यायः">षडशीतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/सप्ताशीतितमोऽध्यायः">सपाशीतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/अष्टाशीतितमोऽध्यायः">अष्टाशीतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A8%E0%A4%B5%E0%A4%BE%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/नवाशीतितमोऽध्यायः">नवाशीतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A8%E0%A4%B5%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/नवतितमोऽध्यायः">नवतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%8F%E0%A4%95%E0%A4%A8%E0%A4%B5%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/एकनवतितमोऽध्यायः">एकनवतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%B5%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/द्विनवतितमोऽध्यायः">द्विनवतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%A8%E0%A4%B5%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/त्रिनवतितमोऽध्यायः">त्रिनवतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B5%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/चतुर्नवतितमोऽध्यायः">चतुर्नवतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%A8%E0%A4%B5%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/पञ्चनवतितमोऽध्यायः">पञ्चनवतितमोऽध्यायः</a></li>
+<li><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B7%E0%A4%A3%E0%A5%8D%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="वामनपुराणम्/षण्णवतितमोऽध्यायः">षण्णवतितमोऽध्यायः</a></li></ol>
+</td></tr></tbody></table>
+
+
+<div class="poem">
+<p><span style="font-size: 14pt; line-height:200%">मार्कण्डेय उवाच<br />
+स्थाणुतीर्थप्रभावं तु श्रोतुमिच्छाम्यहं मुने <br />
+केन सिद्धिरथ प्राप्ता सर्वपापभयापहा  १ <br />
+सनत्कुमार उवाच<br />
+शृणु सर्वमशेषेण स्थाणुमाहात्म्यमुत्तमम् <br />
+यच्छ्रुत्वा सर्वपापेभ्यो मुक्तो भवति मानवः  २ <br />
+एकार्णवे जगत्यस्मिन् नष्टे स्थावरजङ्गमे <br />
+विष्णोर्नाभिसमुद्भूतं पद्ममव्यक्तजन्मनः <br />
+तस्मिन् ब्रह्मा समुद्भूतः सर्वलोकपितामहः  ३ <br />
+तस्मान्मरीचिरभवन्मरीचेः कश्यपः सुतः <br />
+कश्यपादभवद् भास्वांस्तस्मान्मनुरजायत  ४ <br />
+मनोस्तु क्षुवतः पुत्र उत्पन्नो मुखसंभवः <br />
+पृथिव्यां चतुरन्तायां राजासीद् धर्मरक्षिता  ५ <br />
+तस्य पत्नी बभूवाथ भया नाम भयावहा <br />
+मृत्योः सकाशादुत्पन्ना कालस्य दुहिता तदा  ६ <br />
+तस्यां समभवद् वेनो दुरात्मा वेदनिन्दकः <br />
+स दृष्ट्वा पुत्रवदनं क्रुद्धो राजा वनं ययौ  ७ <br />
+तत्र कृत्वा तपो घोरं धर्मेणावृत्य रोदसी <br />
+प्राप्तवान् ब्रह्मसदनं पुनरावृत्तिदुर्लभम्  ८ <br />
+वेनो राजा समभवत् समस्ते क्षितिमण्डले <br />
+स मातामहदोषेण तेन कालात्मजात्मजः  ९ <br />
+घोषयामस नगरे दुरात्मा वेदनिन्दकः <br />
+न दातव्यं न यष्टव्यं न होतव्यं कदाचन  १० <br />
+अहमेकोऽत्र वै वन्द्यः पूज्योऽहं भवतां सदा <br />
+मया हि पालिता यूयं निवसध्वं यथासुखम्  ११ <br />
+तन्मत्तोऽन्यो न देवोऽस्ति युष्माकं यः परायणम् <br />
+एतच्छ्रुत्वा तु वचनमृषयः सर्व एव ते  १२ <br />
+परस्परं समागम्य राजानं वाक्यमब्रुवन् <br />
+श्रुतिः प्रमाणं धर्मस्य ततो यज्ञः प्रतिष्ठितः  १३ <br />
+यज्ञैर्विना नो प्रीयन्ते देवाः स्वर्गनिवासिनः <br />
+अप्रीता न प्रयच्छन्ति वृष्टिं सस्यस्य वृद्धये  १४ <br />
+तस्माद् यज्ञैश्च देवैश्च धार्यते सचराचरम् <br />
+एतच्छ्रुत्वा क्रोधदृष्टिर्वेनः प्राह पुनः पुनः  १५ <br />
+न यष्टव्यं न दातव्यमित्याह क्रोधमूर्च्छितः <br />
+ततः क्रोधसमाविष्टा ऋषयः सर्व एव ते  १६ <br />
+निजघ्नुर्मन्त्रपूतैस्ते कुशैर्वज्रसमन्वितैः <br />
+ततस्त्वराजके लोके तमसा संवृते तदा  १७ <br />
+दस्युभिः पीड्यमानास्तान् ऋषींस्ते शरणं ययुः <br />
+ततस्ते ऋषयः सर्वे ममन्थुस्तस्य वै करम्  १८ <br />
+सव्यं तस्मात् समुत्तस्थौ पुरुषो ह्रस्वदर्शनः <br />
+तमूचुरृषयः सर्वे निषीदतु भवानिति  १९ <br />
+तस्मान्निषादा उत्पन्ना वेनकल्मषसंभवाः <br />
+ततस्ते ऋषयः सर्वे मन्मथुर्दक्षिणं करम्  २० <br />
+मथ्यमाने करे तस्मिन् उत्पन्नः पुरुषोऽपरः <br />
+बृहत्सालप्रतीकाशो दिव्यलक्षणलक्षितः  २१ <br />
+धनुर्बाणाङ्कितकरश्चक्रध्वजसमन्वितः <br />
+तमुत्पन्नं तदा दृष्ट्वा सर्वे देवाः सवासवाः  २२ <br />
+अभ्यषिञ्चन् पृथिव्यां तं राजानं भूमिपालकम् <br />
+ततः स रञ्जयामास धर्मेण पृथिवीं तदा  २३ <br />
+पित्राऽपरञ्जिता तस्य तेन सा परिपालिता <br />
+तत्र राजेतिशब्दोऽस्य पृथिव्या रञ्जनादभूत्  २४ <br />
+स राज्यं प्राप्य तेभ्यस्तु चिन्तयामास पार्थिवः <br />
+पिता मम अधर्मिष्ठो यज्ञव्युच्छित्तिकारकः  २५ <br />
+कथं तस्य क्रिया कार्या परलोकसुखावहा <br />
+इत्येवं चिन्तयानस्य नारदोऽभ्याजगाम ह  २६ <br />
+तस्मै स चासनं दत्त्वा प्रणिपत्य च पृष्टवान् <br />
+भगवन् सर्वलोकस्य जानासि त्वं शुभाशुभम्  २७ <br />
+पिता मम दुराचारो देवब्राह्मणनिन्दकः <br />
+स्वकर्मरहितो विप्र परलोकमवाप्तवान्  २८ <br />
+ततोऽब्रवीन्नारदस्तं ज्ञात्वा दिव्येन चक्षुषा <br />
+म्लेच्छमघ्ये समुत्पन्नं क्षयकुष्ठसमन्वितम्  २९ <br />
+तच्छ्रुत्वा वचनं तस्य नारदस्य महात्मनः <br />
+चिन्तयामास दुःखार्तः कथं कार्यं मया भवेत्  ३० <br />
+इत्येवं चिन्तयानस्य मतिर्जाता महात्मनः <br />
+पुत्रः स कथ्यते लोके यः पितॄंस्त्रायते भयात्  ३१ <br />
+एवं संचिन्त्य स तदा नारदं पृष्टवान् मुनिम् <br />
+तारणं मत्पितुस्तस्य मया कार्यं कथं मुने  ३२ <br />
+नारद उवाच<br />
+गच्छ त्वं तस्य तं देहं तीर्थेषु कुरु निर्मलम् <br />
+यत्र स्थाणोर्महत्तीर्थं सरः संनिहितं प्रति  ३३ <br />
+एतच्छ्रुत्वा तु वचनं नारदस्य महात्मनः <br />
+सचिवे राज्यमाधाय राजा स तु जगाम ह  ३४ <br />
+स गत्वा चोत्तरां भूमिं म्लेच्छमध्ये ददर्श ह <br />
+कुष्ठरोगेण महता क्षयेण च समन्वितम्  ३५ <br />
+ततः शोकेन महता संतप्तो वाक्यमब्रवीत् <br />
+हे म्लेच्छा नौमि पुरुषं स्वगृहं च नयाम्यहम्  ३६ <br />
+तत्राहमेनं निरुजं करिष्ये यदि मन्यथ <br />
+तथेति सर्वे ते म्लेच्छाः पुरुषं तं दयापरम्  ३७ <br />
+ऊचुः प्रणतसर्वाङ्गा यथा जानासि तत्कुरु <br />
+तत आनीय पुरुषान् शिविकावाहनोचितान्  ३८ <br />
+दत्त्वा शुल्कं च द्विगुणं सुखेन नयत द्विजम् <br />
+ततः श्रुत्वा तु वचनं तस्य राज्ञो दयावतः  ३९ <br />
+गृहीत्वा शिविकां क्षिप्रं कुरुक्षेत्रेण यान्ति ते <br />
+तत्र नीत्वा स्थाणुतीर्थे अवतार्य च ते गताः  ४० <br />
+ततः स राजा मध्याह्ने तं स्नापयति वै तदा <br />
+ततो वायुरन्तरिक्षे इदं वचनमब्रवीत्  ४१ <br />
+मा तात साहसं कार्षीस्तीर्थं रक्ष प्रयत्नतः <br />
+अयं पापेन घोरेण अतीव परिवेष्टितः  ४२ <br />
+वेदनिन्दा महत्पापं यस्यान्तो नैव लभ्यते <br />
+सोऽयं स्नानान्महत्तीर्थं नाशयिष्यति तत्क्षणात्  ४३ <br />
+एतद् वायोर्वचः श्रुत्वा दुःखेन महतान्वितः <br />
+उवाच शोकसंतप्तस्तस्य दुःखेन दुःखितः <br />
+एष घोरेण पापेन अतीव परिवेष्टितः  ४४ <br />
+प्रायश्चित्तं करिष्येऽहं यद्वदिष्यन्ति देवताः <br />
+ततस्ता देवताः सर्वा इदं वचनमब्रुवन्  ४५ <br />
+स्नात्वा स्नात्वा च तीर्थेषु अभिषिञ्चस्व वारिणा <br />
+ओजसा चुलुकं यावत् प्रतिकूले सरस्वतीम्  ४६ <br />
+स्नात्वा मुक्तिमवाप्नोति पुरुषः श्रद्धयान्वितः <br />
+एष स्वपोषणपरो देवदूषणतत्परः  ४७ <br />
+ब्राह्मणैश्च परित्यक्तो नैष शुद्ध्यति कर्हिचित् <br />
+तस्मादेनं समुद्दिश्य स्नात्वा तीर्थेषु भक्तितः  ४८ <br />
+अभिषिञ्चस्व तोयेन ततः पूतो भविष्यति <br />
+इत्येतद्वचनं श्रुत्वा कृत्वा तस्याश्रमं ततः  ४९ <br />
+तीर्थयात्रां ययौ राजा उद्दिश्य जनकं स्वकम् <br />
+स तेषु प्लावनं कुर्वंस्तीर्थेषु च दिने दिने  ५० <br />
+अभ्यषिञ्चत् स्वपितरं तीर्थतोयेन नित्यशः <br />
+एतस्मिन्नेव काले तु सारमेयो जगाम ह  ५१ <br />
+स्थाणोर्मठे कौलपतिर्देवद्र व्यस्य रक्षिता <br />
+परिग्रहस्य द्र व्यस्य परिपालयिता सदा  ५२ <br />
+प्रियश्च सर्वलोकेषु देवकार्यपरायणः <br />
+तस्यैवं वर्तमानस्य धर्ममार्गे स्थितस्य च  ५३ <br />
+कालेन चलिता बुद्धिर्देवद्र व्यस्य नाशने <br />
+तेनाधर्मेण युक्तस्य परलोकगतस्य च  ५४ <br />
+दृष्ट्वा यमोऽब्रवीद् वाक्यं श्वयोनिं व्रज मा चिरम् <br />
+तद्वाक्यानन्तरं जातः श्वा वै सौगन्धिके वने  ५५ <br />
+ततः कालेन महता श्वयूथपरिवारितः <br />
+परिभूतः सरमया दुःखेन महता वृतः  ५६ <br />
+त्यक्त्वा द्वैतवनं पुण्यं सान्निहत्यं ययौ सरः <br />
+तस्मिन् प्रविष्टमात्रस्तु स्थाणोरेव प्रसादतः  ५७ <br />
+अतीव तृषया युक्तः सरस्वत्यां ममञ्ज ह <br />
+तत्र संप्लुतदेहस्तु विमुक्तः सर्वकिल्बिषैः  ५८ <br />
+आहारलोभेन तदा प्रविवेश कुटीरकम् <br />
+प्रविशन्तं तदा दृष्ट्वा श्वानं भयसमन्वितः  ५९ <br />
+स तं पस्पर्श शनकैः स्थाणुतीर्थे ममञ्ज ह <br />
+पततः पूर्वतीर्थेषु विप्रुषैः परिषिञ्चतः  ६० <br />
+शुनोऽस्य गात्रसंभूतैरब्बिन्दुभिः स सिञ्चितः <br />
+विरक्तदृष्टिश्च शुनः क्षेपेण च ततः परम्  ६१ <br />
+स्थाणुतीर्थस्य माहात्म्यात् स पुत्रेण च तारितः <br />
+नियतस्तत्क्षणाज्जातो दिव्यदेहसमन्वितः<br />
+प्रणिपत्य तदा स्थाणुं स्तुतिं कर्तुं प्रचक्रमे  ६२ <br />
+वेन उवाच<br />
+प्रपद्ये देवमीशानं त्वामजं चन्द्र भूषणम् <br />
+महादेवं महात्मानं विश्वस्य जगतः पतिम्  ६३ <br />
+नमस्ते देवदेवेश सर्वशत्रुनिषूदन <br />
+देवेश बलिविष्टम्भ देवदैत्यैश्च पूजित  ६४ <br />
+विरूपाक्ष सहस्राक्ष त्र्! यक्ष यक्षेश्वरप्रिय <br />
+सर्वतः पाणिपादान्त सर्वतोऽक्षिशिरोमुख  ६५ <br />
+सर्वतः श्रुतिमल्लोके सर्वमावृत्य तिष्ठसि <br />
+शङ्कुकर्ण महाकर्ण कुम्भकर्णार्णवालय  ६६ <br />
+गजेन्द्र कर्ण गोकर्ण पाणिकर्ण नमोऽस्तु ते <br />
+शतजिह्व शतावर्त शतोदर शतानन  ६७ <br />
+गायन्ति त्वां गायत्रिणो ह्यर्चयन्त्यर्क्कमर्चिणः <br />
+ब्रह्माणं त्वा शतक्रतो उद्वंशमिव मेनिरे  ६८ <br />
+मूर्तौ हि ते महामूर्ते समुद्रा म्बुधरास्तथा <br />
+देवताः सर्व एवात्र गोष्ठे गाव इवासते  ६९ <br />
+शरीरे तव पश्यामि सोममग्निं जलेश्वरम् <br />
+नारायणं तथा सूर्यं ब्रह्माणं च बृहस्पतिम्  ७० <br />
+भगवान् कारणं कार्यं क्रियाकारणमेव तत् <br />
+प्रभवः प्रलयश्चैव सदसच्चापि दैवतम्  ७१ <br />
+नमो भवाय शर्वाय वरदायोग्ररूपिणे <br />
+अन्धकासुरहन्त्रे च पशूनां पतये नमः  ७२ <br />
+त्रिजटाय त्रिशीर्षाय त्रिशूलासक्तपाणये <br />
+त्र्! यम्बकाय त्रिनेत्राय त्रिपुरघ्न नमोऽस्तु ते  ७३ <br />
+नमो मुण्डाय चण्डाय अण्डायोत्पत्तिहेतवे <br />
+डिण्डिमासक्तहस्ताय डिण्डिमुण्डाय ते नमः  ७४ <br />
+नमोर्ध्वकेशदंष्ट्राय शुष्काय विकृताय च <br />
+धूम्रलोहितकृष्णाय नीलग्रीवाय ते नमः  ७५ <br />
+नमोऽस्त्वप्रतिरूपाय विरूपाय शिवाय च <br />
+सूर्यमालाय सूर्याय स्वरूपध्वजमालिने  ७६ <br />
+नमो मानातिमानाय नमः पटुतराय ते <br />
+नमो गणेन्द्र नाथाय वृषस्कन्धाय धन्विने  ७७ <br />
+संक्रन्दनाय चण्डाय पर्णधारपुटाय च <br />
+नमो हिरण्यवर्णाय नमः कनकवर्चसे  ७८ <br />
+नमः स्तुताय स्तुत्याय स्तुतिस्थाय नमोऽस्तु ते <br />
+सर्वाय सर्वभक्षाय सर्वभूतशरीरिणे  ७९ <br />
+नमो होत्रे च हन्त्रे च सितोदग्रपताकिने <br />
+नमो नम्याय नम्राय नमः कटकटाय च  ८० <br />
+नमोऽस्तु कृशनाशाय शयितायोत्थिताय च <br />
+स्थिताय धावमानाय मुण्डाय कुटिलाय च  ८१ <br />
+नमो नर्तनशीलाय लयवादित्रशालिने <br />
+नाट्योपहारलुब्धाय मुखवादित्रशालिने  ८२ <br />
+नमो ज्योष्ठाय श्रेष्ठाय बलातिबलघातिने <br />
+कालनाशाय कालाय संसारक्षयरूपिणे  ८३ <br />
+हिमवद्दुहितुः कान्त भैरवाय नमोऽस्तु ते <br />
+उग्राय च नमो नित्यं नमोऽस्तु दशबाहवे  ८४ <br />
+चितिभस्मप्रियायैव कपालासक्तपाणये <br />
+विभीषणाय भीष्माय भीमव्रतधराय च  ८५ <br />
+नमो विकृतवक्त्राय नमः पूतोग्रदृष्टये <br />
+पक्वाममांसलुब्धाय तम्बिवीणाप्रियाय च  ८६ <br />
+नमो वृषाङ्कवृक्षाय गोवृषाभिरुते नमः <br />
+कटङ्कटाय भीमाय नमः परपराय च  ८७ <br />
+नमः सर्ववरिष्ठाय वराय वरदायिने <br />
+नमो विरक्तरक्ताय भावनायाक्षमालिने  ८८ <br />
+विभेदभेदभिन्नाय छायायै तपनाय च <br />
+अघोरघोररूपाय घोरघोरतराय च  ८९ <br />
+नमः शिवाय शान्ताय नमः शान्ततमाय च <br />
+बहुनेत्रकपालाय एकमूर्ते नमोऽस्तु ते  ९० <br />
+नमः क्षुद्रा य लुब्धाय यज्ञभागप्रियाय च <br />
+पञ्चालाय सिताङ्गाय नमो यमनियामिने  ९१ <br />
+नमश्चित्रोरुघण्टाय घण्टाघण्टनिघण्टिने <br />
+सहस्रशतघण्टाय घण्टामालविभूषिणे  ९२ <br />
+प्राणसंघट्टगर्वाय नमः किलिकिलिप्रिये <br />
+हुंहुङ्काराय पाराय हुंहुङ्कारप्रियाय च  ९३ <br />
+नमः समसमे नित्यं गृहवृक्षनिकेतिने <br />
+गर्भमांसशृगालाय तारकाय तराय च  ९४ <br />
+नमो यज्ञाय यजिने हुताय प्रहुताय च <br />
+यज्ञवाहाय हव्याय तप्याय तपनाय च  ९५ <br />
+नमस्तु पयसे तुभ्यं तुण्डानां पतये नमः <br />
+अन्नदायान्नपतये नमो नानान्नभोजिने  ९६ <br />
+नमः सहस्रशीर्षाय सहस्रचरणाय च <br />
+सहस्रोद्यतशूलाय सहस्राभरणाय च  ९७ <br />
+बालानुचरगोप्त्रे च बाललीलाविलासिने <br />
+नमो बालाय वृद्धाय क्षुब्धाय क्षोभणाय च  ९८ <br />
+गङ्गालुलितकेशाय मुञ्जकेशाय वै नमः <br />
+नमः षट्कर्मतुष्टाय त्रिकर्मनिरताय च  ९९ <br />
+नग्नप्राणाय चण्डाय कृशाय स्फोटनाय च <br />
+धर्मार्थकाममोक्षाणां कथ्याय कथनाय च  १०० <br />
+साङ्ख्याय साङ्ख्यमुख्याय साङ्ख्ययोगमुखाय च <br />
+नमो विरथरथ्याय चतुष्पथरथाय च  १०१ <br />
+कृष्णाजिनोत्तरीयाय व्यालयज्ञोपवीतिने <br />
+वक्त्रसंधानकेशाय हरिकेश नमोऽस्तु ते <br />
+त्र्! यम्बिकाम्बिकनाथाय व्यक्ताव्यक्ताय वेधसे  १०२ <br />
+कामकामदकामघ्न तृप्तातृप्तविचारिणे <br />
+नमः सर्वद पापघ्न कल्पसंख्याविचारिणे  १०३ <br />
+महासत्त्व महाबाहो महाबल नमोऽस्तु ते <br />
+महामेघ महाप्रख्य महाकाल महाद्युते  १०४ <br />
+मेघावर्त युगावर्त चन्द्रा र्कपतये नमः <br />
+त्वमन्नमन्नभोक्ता च पक्वभुक् पावनोत्तम  १०५ <br />
+जरायुजाण्डजाश्चैव स्वेदजोद्भिदजाश्च ये <br />
+त्वमेव देवदेवेश भूतग्रामश्चतुर्विधः  १०६ <br />
+स्रष्टा चराचरस्यास्य पाता हन्ता तथैव च <br />
+त्वामाहुर्ब्रह्म विद्वांसो ब्रह्म ब्रह्मविदां गतिम्  १०७ <br />
+मनसः परमज्योतिस्त्वं वायुर्ज्योतिषामपि <br />
+हंसवृक्षे मधुकरमाहुस्त्वं ब्रह्मवादिनः  १०८ <br />
+यजुर्मयो ऋङ्मयस्त्वामाहुः साममयस्तथा <br />
+पठ्यसे स्तुतिभिर्नित्यं वेदोपनिषदां गणैः  १०९ <br />
+ब्राह्मणाः क्षत्रिया वैश्याः शूद्रा  वर्णावराश्च ये <br />
+त्वमेव मेघसंघाश्च विद्युतोऽशनिगर्जितम्  ११० <br />
+संवत्सरस्त्वमृतवो मासो मासार्धमेव च <br />
+युगा निमेषाः काष्ठाश्च नक्षत्राणि ग्रहाः कलाः  १११ <br />
+वृक्षाणां ककुभोऽसि त्वं गिरीणां हिमवान् गिरिः <br />
+व्याघ्रो मृगाणां पततां तार्क्ष्योऽनन्तश्च भोगिनाम्  ११२ <br />
+क्षिरोदोऽस्युदधीनां च यन्त्राणां धनुरेव च <br />
+वज्रं प्रहरणानां च व्रतानां सत्यमेव च  ११३ <br />
+त्वमेव द्वेष इच्छा च रागो मोहः क्षमाक्षमे <br />
+व्यवसायो धृतिर्लोभः कामक्रोधौ जयाजयौ  ११४ <br />
+त्वं शरी त्वं गदी चापि खट्वाङ्गी च शरासनी <br />
+छेत्ता मेत्ता प्रहर्तासि मन्ता नेता सनातनः  ११५ <br />
+दशलक्षणसंयुक्तो धर्मोऽर्थः काम एव च <br />
+समुद्रा ः! सरितो गङ्गा पर्वताश्च सरांसि च  ११६ <br />
+लतावल्ल्यस्तृणौषध्यः पशवो मृगपक्षिणः <br />
+द्र व्यकर्मगुणारम्भः कालपुष्पफलप्रदः  ११७ <br />
+आदिश्चान्तश्च वेदानां गायत्री प्रणवस्तथा <br />
+लोहितो हरितो नीलः कृष्णः पीतः सितस्तथा  ११८ <br />
+कद्रुश्च कपिलश्चैव कपोतो मेचकस्तथा <br />
+सवर्णश्चाप्यवर्णाश्च कर्ता हर्ता त्वमेव हि  ११९ <br />
+त्वमिन्द्र श्च यमश्चैव वरुणो धनदोऽनिलः <br />
+उपप्लवश्चित्रभानुः स्वर्भानुरेव च  १२० <br />
+शिक्षाहैत्रं त्रिसौपर्णं यजुषां शतरुद्रि यम् <br />
+पवित्रं च पवित्राणां मङ्गलानां च मङ्गलम्  १२१ <br />
+तिन्दुको गिरिजो वृक्षो मुद्गं चाखिलजीवनम् <br />
+प्राणाः सत्त्वं रजश्चैव तमश्च प्रतिपत्पतिः  १२२ <br />
+प्राणोऽपानः समानश्च उदानो व्यान एव च <br />
+उन्मेषश्च निमेषश्च क्षुतं जृम्भितमेव च  १२३ <br />
+लोहितान्तर्गतो दृष्टिर्महावक्त्रो महोदरः <br />
+शुचिरोमा हरिश्मश्रुरूर्ध्वकेशश्चलाचलः  १२४ <br />
+गीतवादित्रनृत्यज्ञो गीतवादित्रकप्रियः <br />
+मत्स्यो जालो जलौकाश्च कालः केलिकला कलिः  १२५ <br />
+अकालश्च विकालश्च दुष्कालः काल एव च <br />
+मृत्युश्च मृत्युकर्ता च यक्षो यक्षभयङ्करः  १२६ <br />
+संवर्तकोऽन्तकश्चैव संवर्तकबलाहकः <br />
+घण्टो घण्टी महाघण्टी चिरी माली च मातलिः  १२७ <br />
+ब्रह्मकालयमाग्नीनां दण्डी मुण्डी त्रिमुण्डधृक् <br />
+चतुर्युगश्चतुर्वेदश्चातुर्होत्रप्रवर्तकः  १२८ <br />
+चातुराश्रम्यनेता च चातुर्वर्ण्यकरस्तथा <br />
+नित्यमक्षप्रियो धूर्तो गणाध्यक्षो गणाधिपः  १२९ <br />
+रक्तमाल्याम्बरधरो गिरिको गिरिकप्रियः <br />
+शिल्पं च शिल्पिनां श्रेष्ठः सर्वशिल्पप्रवर्तकः  १३० <br />
+भगनेत्राङ्कुशश्चण्डः पूष्णो दन्तविनाशनः <br />
+स्वाहा स्वधा वषट्कारो नमस्कारो नमो नमः  १३१ <br />
+गूढव्रतो गुह्यतपास्तारकास्तारकामयः <br />
+धाता विधाता संधाता पृथिव्या धरणोऽपरः  १३२ <br />
+ब्रह्मा तपश्च सत्यं च व्रतचर्यमथार्जवम् <br />
+भूतात्मा भूतकृद् भूतिर्भूतभव्यभवोद्भवः  १३३ <br />
+भूर्भुवः स्वरृतं चैव ध्रुवो दान्तो महेश्वरः <br />
+दीक्षितोऽदीक्षितः कान्तो दुर्दान्तो दान्तसंभवः  १३४ <br />
+चन्द्रा वर्तो युगावर्तः संवर्तकप्रवर्तकः <br />
+बिन्दुः कामो ह्यणुः स्थूलः कर्णिकारस्रजप्रियः  १३५ <br />
+नन्दीमुखो भीममुखः सुमुखो दुर्मुखस्तथा <br />
+हिरण्यगर्भः शकुनिर्महोरगपतिर्विराट्  १३६ <br />
+अधर्महा महादेवो दण्डधारो गणोत्कटः <br />
+गोनर्दो गोप्रतारश्च गोवृषेश्वरवाहनः  १३७ <br />
+त्रैलोक्यगोप्ता गोविन्दो गोमार्गो मार्ग एव च <br />
+स्थिरः श्रेष्ठश्च स्थाणुश्च विक्रोशः क्रोश एव च  १३८ <br />
+दुर्वारणो दुर्विषहो दुःसहो दुरतिक्रमः <br />
+दुर्द्धर्षो दुष्प्रकाशश्च दुर्दुर्शो दुर्जयो जयः  १३९ <br />
+शशाङ्कानलशीतोष्णः क्षुत्तृष्णा च निरामयः <br />
+आधयो व्याधयश्चैव व्याधिहा व्याधिनाशनः  १४० <br />
+समूहश्च समूहस्य हन्ता देवः सनातनः <br />
+शिखण्डी पुण्डरीकाक्षः पुण्डरीकवनालयः  १४१ <br />
+त्र्! यम्बको दण्डधारश्च उग्रदंष्ट्रः कुलान्तकः <br />
+विषापहः सुरश्रेष्ठः सोमपास्त्वं मरुत्पते <br />
+अमृताशी जगन्नातो देवदेव गणेश्वरः  १४२ <br />
+मधुश्च्युतानां मधुपो ब्रह्मवाक् त्वं घृतच्युतः <br />
+सर्वलोकस्य भोक्ता त्वं सर्वलोकपितामहः  १४३ <br />
+हिरण्यरेताः पुरुषस्त्वमेकः त्वं स्त्री पुमांस्त्वं हि नपुंसकं च <br />
+बालो युवा स्थविरो देवदंष्ट्रा त्वन्नो गिरिर्विश्वकृद् विश्वहर्ता  १४४ <br />
+त्वं वै धाता विश्वकृतां वरेण्यस्त्वां पूजयन्ति प्रणताः सदैव <br />
+चन्द्रा दित्यौ चक्षुषी ते भवान् हि त्वमेव चाग्निः प्रपितामहश्च <br />
+आराध्य त्वां सरस्वतीं वाग्लभन्ते अहोरात्रे निमिषोन्मेषकर्ता  १४५ <br />
+न ब्रह्मा न च गोविन्दः पौराणा ऋषयो न ते <br />
+माहात्म्यं वेदितुं शक्ता याथातथ्येन शङ्कर  १४६ <br />
+पुंसां शतसहस्राणि यत्समावृत्य तिष्ठति <br />
+महतस्तमसः पारे गोप्ता मन्ता भवान् सदा  १४७ <br />
+यं विनिद्रा  जितश्वासाः सत्त्वस्थाः संयतेन्द्रि याः <br />
+ज्योतिः पश्यन्ति युञ्जानास्तस्मै योगात्मने नमः  १४८ <br />
+या मूर्तयश्च सूक्ष्मास्ते न शक्या या निदर्शितुम् <br />
+ताभिर्मां सततं रक्ष पिता पुत्रमिवौरसम्  १४९ <br />
+रक्ष मां रक्षणीयोऽहं तवानघ नमोऽस्तु ते <br />
+भक्तानुकम्पी भगवान् भक्तश्चाहं सदा त्वयि  १५० <br />
+जटिने दण्डिने नित्यं लम्बोदरशरीरिणे <br />
+कमण्डलुनिषङ्गाय तस्मै रुद्रा त्मने नमः  १५१ <br />
+यस्य केशेषु जीमूता नद्यः सर्वाङ्गसन्धिषु <br />
+कुक्षौ समुद्रा श्चत्वारस्तस्मै तोयात्मने नमः  १५२ <br />
+संभक्ष्य सर्वभूतानि युगान्ते पर्युपस्थिते <br />
+यः शेते जलमध्यस्थस्तं प्रपद्येऽम्बुशायिनम्  १५३ <br />
+प्रविश्य वदनं राहोर्यः सोमं पिबते निशि <br />
+ग्रसत्यर्कं च स्वर्भानू रक्षितस्तव तेजसा  १५४ <br />
+ये चात्र पतिता गर्भा रुद्र गन्धस्य रक्षणे <br />
+नमस्तेऽस्तु स्वधा स्वाहा प्राप्नुवन्ति तदद्भुते  १५५ <br />
+येऽङ्गुष्ठमात्राः पुरुषा देहस्थाः सर्वदेहिनाम् <br />
+रक्षन्तु ते हि मां नित्यं ते मामाप्याययन्तु वै  १५६ <br />
+ये नदीषु समुद्रे षु पर्वतेषु गुहासु च <br />
+वृक्षमूलेषु गोष्ठेषु कान्तारगहनेषु च  १५७ <br />
+चतुष्पथेषु रथ्यासु चत्वरेषु सभासु च <br />
+हस्त्यश्वरथशालासु जीर्णोद्यानालयेषु च  १५८ <br />
+ये च पञ्चसु भूतेषु दिशासु विदिशासु च <br />
+चन्द्रा र्कयोर्मध्यगता ये च चन्द्रा र्करश्मिषु  १५९ <br />
+रसातलगता ये च ये च तस्मात् परं गताः <br />
+नमस्तेभ्यो नमस्तेभ्यो नमस्तेभ्यश्च नित्यशः  १६० <br />
+येषां न विद्यते संख्या प्रमाणं रूपमेव च <br />
+असंख्येयगणा रुद्रा  नमस्तेभ्योऽस्तु नित्यशः  १६१ <br />
+प्रसीद मम भद्रं  ते तव भावगतस्य च <br />
+त्वयि मे हृदयं देव त्वयि बुद्धिर्मतिस्त्वयि  १६२ <br />
+स्तुत्वैवं स महादेवं विरराम द्विजोत्तमः  १६३ <br />
+इति श्रीवामनपुराणे सरोमाहात्म्ये सप्तचत्वारिंशत्तमोऽध्यायः<br />
+<br />
+</span>
+</p>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20200511040614
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.044 seconds
+Real time usage: 0.070 seconds
+Preprocessor visited node count: 11/1000000
+Post‐expand include size: 15312/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49197/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   26.490      1 फलकम्:वामनपुराणम्
+100.00%   26.490      1 -total
+-->
+
+<!-- Saved in parser cache with key sawikisource:pcache:idhash:5656-0!canonical and timestamp 20200511040613 and revision id 107072
+ -->
+</div><noscript><img src="//sa.wikisource.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">"<a dir="ltr" href="https://sa.wikisource.org/w/index.php?title=वामनपुराणम्/सप्तचत्वारिंशत्तमोऽध्यायः&amp;oldid=107072">https://sa.wikisource.org/w/index.php?title=वामनपुराणम्/सप्तचत्वारिंशत्तमोऽध्यायः&amp;oldid=107072</a>" इत्यस्माद् प्रतिप्राप्तम्</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%BE%E0%A4%83" title="विशेषः:वर्गाः">वर्गः</a>: <ul><li><a href="/wiki/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%83:%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D" title="वर्गः:वामनपुराणम्">वामनपुराणम्</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>सञ्चरणावलिः</h2>
+	<div id="mw-head">
+		<div id="p-personal" role="navigation" class="vector-menu" aria-labelledby="p-personal-label" >
+	<h3 id="p-personal-label">वैयक्तिकोपकरणानि</h3>
+	<ul class="menu" >
+		<li id="pt-anonuserpage">नैव प्रविष्टः</li><li id="pt-anontalk"><a href="/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:%E0%A4%AE%E0%A4%AE_%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%A3%E0%A4%AE%E0%A5%8D" title="एतस्मात् ऐपिसङ्केतात् सम्पादनस्य परिचर्चा । [n]" accesskey="n">सम्भाषणम्</a></li><li id="pt-anoncontribs"><a href="/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:%E0%A4%AE%E0%A4%AE_%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%A6%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%BF" title="इस आईपी पते से संपादन की सूची [y]" accesskey="y">अंशदाता</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE_%E0%A4%B8%E0%A5%83%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A4%BE%E0%A4%AE%E0%A5%8D&amp;returnto=%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D%2F%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="नूतनसदस्यतां प्राप्य प्रविश्यताम् इति सूच्यते किन्तु न एतद् अनिवार्यम्">सदस्यता प्राप्यताम्</a></li><li id="pt-login"><a href="/w/index.php?title=%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%87%E0%A4%B6%E0%A4%83&amp;returnto=%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D%2F%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="प्रवेशाय प्रोत्सहामहे । परन्तु प्रवेशः अनिवार्यः नास्ति । [o]" accesskey="o">प्रविश्यताम्</a></li>
+	</ul>
+</div>
+
+
+		<div id="left-navigation">
+			<div id="p-namespaces" role="navigation" class="vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" >
+	<h3 id="p-namespaces-label">नामावकाशाः</h3>
+	<ul class="menu" >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="विषययुक्तं पृष्ठं पश्यतु [c]" accesskey="c">पृष्ठम्</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%A3%E0%A4%AE%E0%A5%8D:%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83&amp;action=edit&amp;redlink=1" rel="discussion" title="विषयसहितानां पृष्ठानां सम्भाषणम् (पृष्ठं न विद्यते) [t]" accesskey="t">चर्चा</a></li>
+	</ul>
+</div>
+
+
+			<div id="p-variants" role="navigation" class="emptyPortlet vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" >
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" >
+		<span>पाठभेदाः</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+
+		</div>
+		<div id="right-navigation">
+			<div id="p-views" role="navigation" class="vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" >
+	<h3 id="p-views-label">दर्शनानि</h3>
+	<ul class="menu" >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83">पठ्यताम्</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83&amp;action=edit" title="इदं पृष्ठं सम्पाद्यताम् [e]" accesskey="e">सम्पाद्यताम्</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83&amp;action=history" title="अस्य पृष्ठस्य पुरातनाऽऽवृत्तिः [h]" accesskey="h">इतिहासः दृश्यताम्</a></li>
+	</ul>
+</div>
+
+
+			<div id="p-cactions" role="navigation" class="emptyPortlet vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" >
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" >
+		<span>अधिकम्</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">शोधः</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="विकिस्रोतः अन्विष्यताम्" title="विकिस्रोतः अन्विष्यताम् [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="विशेषः:अन्वेषणम्" name="title"/>
+			<input type="submit" name="fulltext" value="अन्विष्यताम्" title="पृष्ठेषु एषः वाक्यांशः अन्विष्यताम्" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="गम्यताम्" title="समानशिरोनामयुक्तं पृष्ठं विद्यते चेत् तत्र गम्यताम्" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="मुख्यपृष्ठं गम्यताम्" class="mw-wiki-logo" href="/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D"></a>
+	</div>
+	<div id="p-navigation" role="navigation" class="vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" >
+	<h3 id="p-navigation-label">सञ्चरणम्</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D" title="मुख्यपृष्ठं गम्यताम् [z]" accesskey="z">मुख्यपृष्ठम्</a></li><li id="n-portal"><a href="/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A4%E0%A4%83:%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A4%BE%E0%A4%AF%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%AE%E0%A5%8D" title="त्वया प्रकल्पविषये किं कर्तुं शक्यते, कुतः साहाय्यं प्राप्तव्यम्">समुदायद्वारम्</a></li><li id="n-currentevents"><a href="/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A4%E0%A4%83:%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%BE%E0%A4%83" title="वर्तमानप्रसङ्गानां पृष्ठभूमिका प्राप्यताम्">वर्तमानकार्यविशेषाः</a></li><li id="n-recentchanges"><a href="/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:%E0%A4%A8%E0%A5%82%E0%A4%A4%E0%A4%A8%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%BF" title="नूतनपरिवर्तनानाम् आवलिः [r]" accesskey="r">सद्यपरिवर्तनानि</a></li><li id="n-randompage"><a href="/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A5%83%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BF%E0%A4%95%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D" title="यादृच्छिकं पृष्ठं दर्श्यताम् [x]" accesskey="x">यादृच्छिकपुटम्</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="अन्वेषणस्थलम्">साहाय्यम्</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_sa.wikisource.org&amp;uselang=sa" title="साहाय्यं क्रियताम्">दानम्</a></li></ul>
+		
+	</div>
+</div>
+
+
+	<div id="p-coll-print_export" role="navigation" class="vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" >
+	<h3 id="p-coll-print_export-label">मुद्रणम्/निर्यातः</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%9A%E0%A5%8D%E0%A4%AF%E0%A4%AF&amp;bookcmd=book_creator&amp;referer=%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D%2F%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83">मम सङ्ग्रहः</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:ElectronPdf&amp;page=%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D%2F%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83&amp;action=show-download-screen">PDF रूपेण अवारोप्यताम्</a></li><li id="t-print"><a href="/w/index.php?title=%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83&amp;printable=yes" title="अस्य पृष्ठस्य मुद्रणयोग्या आवृत्तिः [p]" accesskey="p">मुद्रणयोग्यं संस्करणम्</a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" role="navigation" class="vector-menu-portal portal" aria-labelledby="p-tb-label" >
+	<h3 id="p-tb-label">उपकरणानि</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:%E0%A4%95%E0%A4%BF%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%B0_%E0%A4%B8%E0%A4%81%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A5%8D/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" title="अत्र सम्बद्धानां सर्वेषां विकिपृष्ठानाम् आवलिः [j]" accesskey="j">अत्र कोऽनुबन्धः?</a></li><li id="t-recentchangeslinked"><a href="/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:%E0%A4%A8%E0%A5%82%E0%A4%A4%E0%A4%A8%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%82_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A4%AF%E0%A4%83/%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83" rel="nofollow" title="एतत्पृष्ठसम्बद्धेषु पृष्ठेषु जातानि नवीनपरिवर्तनानि [k]" accesskey="k">पृष्ठसम्बद्धानि परिवर्तनानि</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=sa" title="सञ्चिकाः उपारोप्यन्ताम् [u]" accesskey="u">सञ्चिका उपारोप्यताम्</a></li><li id="t-specialpages"><a href="/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%BE%E0%A4%A8%E0%A4%BF" title="सर्वेषां विशेषपृष्ठानाम् आवलिः [q]" accesskey="q">विशेषपृष्ठानि</a></li><li id="t-permalink"><a href="/w/index.php?title=%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83&amp;oldid=107072" title="पृष्ठस्यास्य स्थायिपरिसन्धिः">स्थायिपरिसन्धिः</a></li><li id="t-info"><a href="/w/index.php?title=%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83&amp;action=info" title="एतस्य पृष्ठस्य विषये अधिकं विवरणम्">पृष्ठसूचनाः</a></li><li id="t-cite"><a href="/w/index.php?title=%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%83:%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A5%83%E0%A4%A4&amp;page=%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D%2F%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83&amp;id=107072&amp;wpFormIdentifier=titleform" title="अस्य पृष्ठस्य उल्लेखः कथमिति विवरणम्">अस्य पृष्ठस्य उल्लेखः क्रियताम्</a></li><li id="t-shorturl"><a href="//sa.wikisource.org/s/3yp" title="शेयर करने के लिए ये छोटा यू॰आर॰एल कॉपी करें">लघुसार्वसङ्केतः</a></li></ul>
+		
+	</div>
+</div>
+
+
+</div>
+
+</div>
+
+<div id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> ३ एप्रिल् २०१७ (तमे) दिनाङ्के ०३:५२ समये अन्तिमपरिवर्तनं  जातम्</li>
+		<li id="footer-info-copyright">पाठः <a href="https://creativecommons.org/licenses/by-sa/3.0/">क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक अभिज्ञापत्रस्य</a> अन्तर्गततया उपलब्धः अस्ति; अन्याः संस्थित्यः अपि सन्ति ।
+अधिकं ज्ञातुम् अत्र <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use"> उपयोगस्य संस्थितिं</a> पश्यतु ।</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">गोपनीयतानीतिः</a></li>
+		<li id="footer-places-about"><a href="/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%83:%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A4%AF%E0%A5%87" title="प्रकल्पः:विषये">विकिस्रोतः विषयकं</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A4%E0%A4%83:%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D" title="विकिस्रोतः:सामान्यं प्रत्याख्यानम्">प्रत्याख्यानम्</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">विधिकाराः</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/sa.wikisource.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">कुकी का वर्णन</a></li>
+		<li id="footer-places-mobileview"><a href="//sa.m.wikisource.org/w/index.php?title=%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%9A%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8B%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">जङ्गमदूरवाणी-दृश्यम्</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.044","walltime":"0.070","ppvisitednodes":{"value":11,"limit":1000000},"postexpandincludesize":{"value":15312,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49197,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   26.490      1 फलकम्:वामनपुराणम्","100.00%   26.490      1 -total"]},"cachereport":{"origin":"mw1319","timestamp":"20200511040614","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":298,"wgHostname":"mw1399"});});</script></body></html>
